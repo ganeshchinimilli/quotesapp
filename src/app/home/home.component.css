@@ -1,0 +1,30 @@
+
+/* .carousel-indicators li {
+  border: none;
+  background: #ccc;
+}
+
+.carousel-indicators li.active {
+  background: #28a745;
+} */
+
+.card{
+  background-color: #ed5e3d !important;
+}
+.carousel-control-next,.carousel-control-prev {
+  background-color: rgb(164, 186, 233)!important;
+  width:40px;
+  opacity: 0.1;
+  border:none;
+};
+
+.custom{
+  background-color: black!important;
+}
+.carousel-item{
+  background-color: rgb(243, 250, 250)!important;
+  font-weight: bold !important;
+  font-size: medium;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
